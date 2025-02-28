@@ -1,7 +1,7 @@
 # CDP Assistant
 
 A conversational AI assistant designed to help with Customer Data Platform (CDP) related tasks and queries.
- **Link**: https://cdp-assistant.netlify.app/
+ -**Link**: https://cdp-assistant.netlify.app/
 
 ## Overview
 
